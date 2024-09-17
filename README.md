@@ -18,7 +18,7 @@ Creating an ATM (Automated Teller Machine) project in C involves developing a co
 5.  **Repeat** **or** **Exit**: Choose to continue exploring or manipulating your bank account or exit the ATM whenever you're ready.
 
 # FILE  
-* main.c: Contains the source code for this particular word game.
+* main.c: Contains the source code for this particular project.
 * README.md: This file, providing information about the project.     
 
 
