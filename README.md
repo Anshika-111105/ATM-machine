@@ -1,10 +1,6 @@
 # ATM (Automatic Teller Machine)
 Creating an ATM (Automated Teller Machine) project in C involves developing a console-based application that simulates the functionality of a real ATM. 
 
-[Click here](https://github.com/Anshika-111105)  
-![screenshot]("C:\Users\anshika saklani\OneDrive\Pictures\Screenshots\Screenshot 2024-09-17 112827.png") 
-
-
 # RULES TO BE FOLLOWED  
 * Run the program in a C compiler or IDE.  
 *  It's essential to adhere to specific guidelines to ensure the system is secure, efficient, and user-friendly  
@@ -33,5 +29,6 @@ Creating an ATM (Automated Teller Machine) project in C involves developing a co
 * Email : anshikasaklani894@gmail.com
 * linkedIn : www.linkedin.com/in/
 anshika-saklani-77a5a626a
+*[Click here ](https://github.com/Anshika-111105) 
 
 
